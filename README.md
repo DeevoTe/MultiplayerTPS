@@ -1,2 +1,2 @@
 # MultiplayerTPS
- Thirdperson multiplayer template for UE5
+ Thirdperson multiplayer shooter template for UE5. Assets is from Lyra.
